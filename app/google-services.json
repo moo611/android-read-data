@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "472752123588",
+    "firebase_url": "https://hellowordl-1c370.firebaseio.com",
+    "project_id": "hellowordl-1c370",
+    "storage_bucket": "hellowordl-1c370.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472752123588:android:6d28428edb075cd4",
+        "android_client_info": {
+          "package_name": "com.example.macos.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472752123588-f78ehl5sobt4ur8o78un94veklg6roht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1CVFwxsD5qa7eItzQwbuswb0mD-pnEaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472752123588:android:b6725e2588d01ce7",
+        "android_client_info": {
+          "package_name": "com.xiaoorz.savedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472752123588-f78ehl5sobt4ur8o78un94veklg6roht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1CVFwxsD5qa7eItzQwbuswb0mD-pnEaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
